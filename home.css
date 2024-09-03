@@ -1,0 +1,312 @@
+
+.nav-icons{
+    margin-left: 700px;
+}
+
+.carousel-caption{
+    position: absolute;
+    bottom: 120px;
+}
+.carousel-caption h5{
+  font-family: "Lora",serif;
+  font-size:60px;
+  line-height: 1.1;
+  width:55% ;
+  text-align: left;
+  font-weight: bold;
+}
+.carousel-caption p{
+    font-family: "Lora",serif;
+    width:60% ;
+    font-size: 20px;
+    text-align: left;
+    font-weight: 500;
+}
+.btnone{
+    color: white;
+    background-color: #C30047;
+    height: 45px;
+    width: 120px;
+    border:2px solid transparent;
+    border-radius: 25px 25px 25px 25px;
+    position: relative;
+    right: 375px;
+}
+.section-padding{
+    padding: 100px 0;
+}
+.service{
+    position: relative;
+    top: 60px;
+    font-size: 45px;
+    color:brown ;
+    padding-left:140px ;
+}
+.p1{
+    position: relative;
+    top: 65px;
+   color: black;
+   font-size: 20px;
+   padding-left:140px ;
+}
+.p2{
+    position: relative;
+    top: 70px;
+    color: black;
+    font-size: 18px;
+    padding-left:140px ;
+ }
+ .btn3{
+    position: relative;
+    top: 75px;
+    border-radius: 25px 25px 25px 25px;
+    height: 50px;
+    width: 150px;
+    background-color:#C30047;
+    border: 2px solid transparent;
+    color: #fff;
+    left:140px ;
+ }
+
+ .section-paddig{
+    padding: 100px 0;
+ }
+
+ .body2{
+    height: 220px;
+    background-image: url(home.img/section-bg1.jpg);
+    background-position: center;
+ }
+ .body3{
+    background-image: url(home.img/section-bg2.jpg);
+    background-position: center;
+    height: 600px; 
+ }
+.btn4{
+    position: relative;
+    top: -15px;
+    border-radius: 25px 25px 25px 25px;
+    height: 50px;
+    width: 150px;
+    background-color:#C30047;
+    border: 2px solid transparent;
+    color: #fff;
+ }
+ .btn5{
+    position: relative;
+    top: 15px;
+    border-radius: 25px 25px 25px 25px;
+    height: 50px;
+    width: 150px;
+    background-color:#C30047;
+    border: 2px solid transparent;
+    color: #fff;
+ }
+ .joining1img{
+    height: 350px;
+    width: 350px;
+ }
+ .joining2img{
+    height: 350px;
+    width: 340px;
+ }
+ .footer{
+    background-color: #C30047;
+    width: 100%;
+    color: #fff;
+ }
+ .li1{
+    list-style: none; 
+ }
+ a{
+    text-decoration: none;
+    color: #fff;
+ }
+ @media only screen and (max-width:480px) {
+    .nav-barcontent{
+        display:none;
+    }
+    .carousel-inner{
+       height: 480px;
+       width: 100%;
+    }
+    .carousel-caption{
+      display: block !important;
+      position: absolute;
+      bottom: 250px;
+    }
+    .carousel-caption h5{
+     font-size: 30px;
+     word-spacing: 2px;
+     letter-spacing: 1.2px;
+     width: 100%;
+    }
+    .carousel-caption p{
+      font-size: 16px;
+      width: 100%;
+    }
+    .btnone{
+      position: absolute;
+      top: 155px;
+      left: -8px;
+      width: 40%;
+    }
+    .card{
+      margin-bottom: 25px;
+    }
+.row{
+   display:inline;
+}
+.col-4{
+   width: 1000px;
+}
+.supportimg{
+   width: 420px;
+}
+.col-6{
+   display: inline;
+}
+.service{
+   position: relative;
+   top: 10px;
+   left: -120px;
+}
+.p1{
+   position: relative;
+   top: 10px;
+   left: -120px;
+   width: 110%;
+   font-size: 16px;
+}
+.p2{
+   position: relative;
+   top: 10px;
+   left: -120px;
+   width: 110%;
+   font-size: 16px;
+}
+.btn3{
+   position: relative;
+    top: 20px;
+    left:20px ;
+}
+.body2{
+   height: 670px;
+   
+}
+.row{
+   width: 50px;
+}
+.s1{
+display: flex;
+ font-size: 25px;
+ font-weight: bold;
+}
+.section-padding{
+   padding: 50px 0;
+}
+.section-padding3{
+   position: relative;
+   bottom: 50px;
+}
+.body3{
+     height: 500px; 
+     width: 100%;
+}
+.bd3{
+   width: 92% !important;
+   position: absolute;
+   margin-left: 5px !important;
+   margin-right: 5px !important;
+   margin-top: 70px !important;
+}
+.bd3 h3{
+   font-size: 22px !important;
+   width: 100% !important;
+   position: relative;
+   top: -20px !important;
+}
+.bd3 p{
+   font-size: 15px !important;
+   width: 100% !important;
+}
+.body3{
+   background-position: center;
+   height: 530px; 
+   width: 100% !important;
+}
+.btn4{
+   position: relative;
+   top: -25px;
+   height: 40px;
+   width: 140px;
+  }
+
+.jwu{
+   position: relative;
+   top: -60px;
+   left: 20px;
+}
+.juw1{
+   position: relative;
+   top: -60px;
+   left: 20px;
+}
+ .btn5{
+   position: relative;
+   top:-50px ;
+   left: 20px;
+ }
+ .joining1img{
+   position: relative;
+   top: -18px;
+   width: 100%;
+ }
+ .joining2img{
+   position: relative;
+   top: 22px;
+   width: 100%;
+   height: 400px;
+ }
+ .ftp{
+   display: flex;
+   width: 400px;
+ }
+#icn1{
+   flex-direction: row;
+}
+.h41{
+   position: relative;
+   top: 15px;
+}
+.a5{
+   position: relative;
+   top: 5px;
+   margin-left:-16px;
+}
+.h42{
+   position: relative;
+   top: 15px;
+   margin-left:1px;
+}
+.a6{
+   position: relative;
+   top: 5px;
+   margin-left:-5px;
+}
+.h43{
+   position: relative;
+   top: 15px;
+   margin-left:1px;
+}
+.ftpp{
+   position: relative;
+   top: 15px;
+   display: flex;
+   width: 400px;
+}
+.fte{
+   position: relative;
+   top: 10px;
+}
+ }
